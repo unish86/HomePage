@@ -7,7 +7,7 @@ export default function About() {
         <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
           <div className="md:5/12 lg:w-5/12">
             <img
-              src="media/images/img03.jpg"
+              src="/media/images/img03.jpg"
               alt="image"
               style={{ width: "80%", marginLeft: "30%", borderRadius: "16px" }}
             />
